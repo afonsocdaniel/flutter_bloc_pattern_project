@@ -1,2 +1,2 @@
-# flutter_bloc_pattern_project
-An example of the flutter BLoC Pattern
+# Flutter BLOC pattern
+An example of Flutter architecture project using BLOC pattern
